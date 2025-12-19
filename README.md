@@ -10,16 +10,21 @@ This repository contains solutions for LeetCode problems practiced during the UB
 - ValidAnagram  
 - ValidSudoku  
 - ValidPalindrome  
-- StringCompression  
+- StringCompression
+- Container With Most Water
+- Two Sum II - Input Array Is Sorted
+- Trapping Rain Water
+- Longest Consecutive Sequence
 
-Additional problems and solutions may be added as the sessions progress.
+Additional problems and solutions will be added as the sessions progress.
 
 ---
 
 ## Session Documentation
 
-- Week 1 : https://docs.google.com/document/d/1gPVra1eafFKRvM4aCqF9lE-AGVMrB8VkbUHPOSuwb_0/edit?usp=sharing
-- Week 2: https://docs.google.com/document/d/1z8DHtisXh4UWGcFZttG6TMRoLfn5PsXawKNwGm8gnUo/edit?usp=sharing
+- Session 1 : https://docs.google.com/document/d/1gPVra1eafFKRvM4aCqF9lE-AGVMrB8VkbUHPOSuwb_0/edit?usp=sharing
+- Session 2: https://docs.google.com/document/d/1z8DHtisXh4UWGcFZttG6TMRoLfn5PsXawKNwGm8gnUo/edit?usp=sharing
+- Session 3: https://docs.google.com/document/d/1age7USgbHKFQjXtpLFoG38_C5H0IPyan607hmNMKLoU/edit?usp=sharing
 
 ---
 
@@ -28,7 +33,7 @@ Additional problems and solutions may be added as the sessions progress.
 1. Clone this repository.  
 2. Navigate to the folder of the problem you want to study or practice.  
 3. Review existing solutions or add your own solution file named after you (e.g., `yourname.py`).  
-4. Test and refine your approach locally.
+4. Test and refine your approach on Leetcode's portal.
 
 ---
 
